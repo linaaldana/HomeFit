@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HomeFit</string>
+
+    <!--  Botones  -->
+    <string name="btn_iniciar_sesion">INICIAR SESIÒN</string>
+    <string name="btn_registrarse">REGISTRARSE</string>
+</resources>
